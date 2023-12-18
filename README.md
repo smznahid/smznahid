@@ -3,5 +3,5 @@
 
 -   :video_game: I am working as **N/A**
 -   :monocle_face: Interested in everything **Data**
--   :seedling: Currently learning **Data Visualisation Techniques and EDA**
+-   :seedling: Currently learning **Advanced Power BI**
 -   :heart: **Data Analytics and Keggle**
